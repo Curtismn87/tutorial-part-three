@@ -8,8 +8,5 @@ export default () => (
       What do I like to do? Lots of course but definitely enjoy building
       websites.
     </p>
-    <a href="contact/">Contact</a>
-    <br />
-    <a href="about/">About</a>
   </Layout>
 )
